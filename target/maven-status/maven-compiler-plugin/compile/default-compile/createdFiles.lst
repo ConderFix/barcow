@@ -1,0 +1,5 @@
+hitachi\barcow\commands\BarCow.class
+hitachi\barcow\events\ClickingOnBlockCow.class
+hitachi\barcow\events\ClickingOnBlockCow$1.class
+hitachi\barcow\HexUtil.class
+hitachi\barcow\Main.class

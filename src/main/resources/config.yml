@@ -1,0 +1,9 @@
+messages:
+  toExplosion: '&fДо взрыва: &c&l{time}'
+item:
+  material: DIAMOND
+  name: '&6Подрывная Му'
+  lore:
+    - 'Взрывная корова'
+  glow: true
+  timeExplosion: 10 # Сколько секунд до взрыва

@@ -1,0 +1,7 @@
+name: BarCow
+version: '${project.version}'
+main: hitachi.barcow.Main
+api-version: '1.16'
+load: STARTUP
+commands:
+  barcow:

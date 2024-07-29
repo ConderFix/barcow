@@ -1,0 +1,7 @@
+name: BarCow
+version: '1.0.0'
+main: hitachi.barcow.Main
+api-version: '1.16'
+load: STARTUP
+commands:
+  barcow:
